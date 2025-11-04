@@ -29,5 +29,3 @@ It allows users to **add, edit, delete, search, and reorder** table rows and col
 - ⚡ **Vite** — super-fast dev environment  
 
 ---
-
-Live:https://lohithg21.github.io/Dynamic-table-manager/
